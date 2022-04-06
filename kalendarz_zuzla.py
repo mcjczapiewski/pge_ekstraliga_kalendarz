@@ -5,6 +5,8 @@ import json
 import pytz
 import api_key
 
+# TODO: change file path to incorporate __file__
+
 
 def read_data_from_local_file():
     with open(r"./zuzel_data.json", "r") as f:
