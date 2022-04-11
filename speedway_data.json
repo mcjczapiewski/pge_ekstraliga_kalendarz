@@ -1,0 +1,820 @@
+{
+    "data": [
+        {
+            "id": 2879,
+            "attendance": 0,
+            "count_attendance": 0,
+            "card_type_id": 1,
+            "broadcaster_schedule_id": 28,
+            "postponed_card_id": null,
+            "postponed_first_card_id": null,
+            "status_id": 1,
+            "season": 2022,
+            "verified": 0,
+            "match_type_id": 1,
+            "match_subtype_id": 1,
+            "track_id": 22,
+            "name": {
+                "pl": "ZIELONA-ENERGIA.COM WŁÓKNIARZ Częstochowa - FOGO UNIA Leszno",
+                "en": "ZIELONA-ENERGIA.COM WŁÓKNIARZ Częstochowa - FOGO UNIA Leszno"
+            },
+            "shortname": {
+                "pl": "CZE - LES",
+                "en": "CZE - LES"
+            },
+            "description": {
+                "pl": null,
+                "en": null
+            },
+            "datetime_schedule": 1649433600000,
+            "datetime_has_hour": 1,
+            "round": 1,
+            "city": null,
+            "stub": 0,
+            "dynamic_stub": 0,
+            "url": null,
+            "status": {
+                "id": 1,
+                "name": {
+                    "pl": "Rozegrany",
+                    "en": "Raced"
+                },
+                "shortname": {
+                    "pl": "Rozegrany",
+                    "en": "Raced"
+                }
+            },
+            "broadcaster_schedule": {
+                "id": 28,
+                "title": "Eleven Sports 1 / CANAL+ online"
+            },
+            "card_teams": [
+                {
+                    "no": 1,
+                    "card_id": 2879,
+                    "team_id": 9,
+                    "match_score": 44,
+                    "match_tlt_score": null,
+                    "team_shortcut": "CZE"
+                },
+                {
+                    "no": 2,
+                    "card_id": 2879,
+                    "team_id": 6,
+                    "match_score": 46,
+                    "match_tlt_score": null,
+                    "team_shortcut": "LES"
+                }
+            ],
+            "match_type": {
+                "id": 1,
+                "shortname": {
+                    "pl": "DMP",
+                    "en": "Extraleague"
+                },
+                "name": {
+                    "pl": "Drużynowe Mistrzostwa Polski",
+                    "en": "Polish Speedway Extraleague"
+                },
+                "has_home_away": 1,
+                "team_competition": 1
+            },
+            "match_subtype": {
+                "id": 1,
+                "name": {
+                    "pl": "Część zasadnicza",
+                    "en": "Main Round"
+                },
+                "shortname": {
+                    "pl": "Część zasadnicza",
+                    "en": "MR"
+                },
+                "description": {
+                    "pl": "",
+                    "en": ""
+                },
+                "has_knockout_table": 0
+            },
+            "postponed": null,
+            "postponed_first": null,
+            "track": {
+                "id": 22,
+                "city": "Częstochowa"
+            }
+        },
+        {
+            "id": 2880,
+            "attendance": 0,
+            "count_attendance": 0,
+            "card_type_id": 1,
+            "broadcaster_schedule_id": 28,
+            "postponed_card_id": null,
+            "postponed_first_card_id": null,
+            "status_id": 1,
+            "season": 2022,
+            "verified": 0,
+            "match_type_id": 1,
+            "match_subtype_id": 1,
+            "track_id": 19,
+            "name": {
+                "pl": "MOJE BERMUDY STAL Gorzów - MOTOR Lublin",
+                "en": "MOJE BERMUDY STAL Gorzów - MOTOR Lublin"
+            },
+            "shortname": {
+                "pl": "GOR - LUB",
+                "en": "GOR - LUB"
+            },
+            "description": {
+                "pl": null,
+                "en": null
+            },
+            "datetime_schedule": 1649442600000,
+            "datetime_has_hour": 1,
+            "round": 1,
+            "city": null,
+            "stub": 0,
+            "dynamic_stub": 0,
+            "url": null,
+            "status": {
+                "id": 1,
+                "name": {
+                    "pl": "Rozegrany",
+                    "en": "Raced"
+                },
+                "shortname": {
+                    "pl": "Rozegrany",
+                    "en": "Raced"
+                }
+            },
+            "broadcaster_schedule": {
+                "id": 28,
+                "title": "Eleven Sports 1 / CANAL+ online"
+            },
+            "card_teams": [
+                {
+                    "no": 1,
+                    "card_id": 2880,
+                    "team_id": 8,
+                    "match_score": 44,
+                    "match_tlt_score": null,
+                    "team_shortcut": "GOR"
+                },
+                {
+                    "no": 2,
+                    "card_id": 2880,
+                    "team_id": 14,
+                    "match_score": 46,
+                    "match_tlt_score": null,
+                    "team_shortcut": "LUB"
+                }
+            ],
+            "match_type": {
+                "id": 1,
+                "shortname": {
+                    "pl": "DMP",
+                    "en": "Extraleague"
+                },
+                "name": {
+                    "pl": "Drużynowe Mistrzostwa Polski",
+                    "en": "Polish Speedway Extraleague"
+                },
+                "has_home_away": 1,
+                "team_competition": 1
+            },
+            "match_subtype": {
+                "id": 1,
+                "name": {
+                    "pl": "Część zasadnicza",
+                    "en": "Main Round"
+                },
+                "shortname": {
+                    "pl": "Część zasadnicza",
+                    "en": "MR"
+                },
+                "description": {
+                    "pl": "",
+                    "en": ""
+                },
+                "has_knockout_table": 0
+            },
+            "postponed": null,
+            "postponed_first": null,
+            "track": {
+                "id": 19,
+                "city": "Gorzów"
+            }
+        },
+        {
+            "id": 2881,
+            "attendance": 0,
+            "count_attendance": 0,
+            "card_type_id": 1,
+            "broadcaster_schedule_id": 27,
+            "postponed_card_id": null,
+            "postponed_first_card_id": null,
+            "status_id": 1,
+            "season": 2022,
+            "verified": 0,
+            "match_type_id": 1,
+            "match_subtype_id": 1,
+            "track_id": 9,
+            "name": {
+                "pl": "ARGED MALESA Ostrów Wlkp. - ZOOLESZCZ GKM Grudziądz",
+                "en": "ARGED MALESA Ostrów Wlkp. - ZOOLESZCZ GKM Grudziądz"
+            },
+            "shortname": {
+                "pl": "OST - GRU",
+                "en": "OST - GRU"
+            },
+            "description": {
+                "pl": null,
+                "en": null
+            },
+            "datetime_schedule": 1649599200000,
+            "datetime_has_hour": 1,
+            "round": 1,
+            "city": null,
+            "stub": 0,
+            "dynamic_stub": 0,
+            "url": null,
+            "status": {
+                "id": 1,
+                "name": {
+                    "pl": "Rozegrany",
+                    "en": "Raced"
+                },
+                "shortname": {
+                    "pl": "Rozegrany",
+                    "en": "Raced"
+                }
+            },
+            "broadcaster_schedule": {
+                "id": 27,
+                "title": "CANAL+ Sport 5 / CANAL+ online"
+            },
+            "card_teams": [
+                {
+                    "no": 1,
+                    "card_id": 2881,
+                    "team_id": 15,
+                    "match_score": 35,
+                    "match_tlt_score": null,
+                    "team_shortcut": "OST"
+                },
+                {
+                    "no": 2,
+                    "card_id": 2881,
+                    "team_id": 2,
+                    "match_score": 55,
+                    "match_tlt_score": null,
+                    "team_shortcut": "GRU"
+                }
+            ],
+            "match_type": {
+                "id": 1,
+                "shortname": {
+                    "pl": "DMP",
+                    "en": "Extraleague"
+                },
+                "name": {
+                    "pl": "Drużynowe Mistrzostwa Polski",
+                    "en": "Polish Speedway Extraleague"
+                },
+                "has_home_away": 1,
+                "team_competition": 1
+            },
+            "match_subtype": {
+                "id": 1,
+                "name": {
+                    "pl": "Część zasadnicza",
+                    "en": "Main Round"
+                },
+                "shortname": {
+                    "pl": "Część zasadnicza",
+                    "en": "MR"
+                },
+                "description": {
+                    "pl": "",
+                    "en": ""
+                },
+                "has_knockout_table": 0
+            },
+            "postponed": null,
+            "postponed_first": null,
+            "track": {
+                "id": 9,
+                "city": "Ostrów Wielkopolski"
+            }
+        },
+        {
+            "id": 2882,
+            "attendance": 0,
+            "count_attendance": 0,
+            "card_type_id": 1,
+            "broadcaster_schedule_id": 27,
+            "postponed_card_id": null,
+            "postponed_first_card_id": null,
+            "status_id": 1,
+            "season": 2022,
+            "verified": 0,
+            "match_type_id": 1,
+            "match_subtype_id": 1,
+            "track_id": 25,
+            "name": {
+                "pl": "BETARD SPARTA Wrocław - FOR NATURE SOLUTIONS APATOR Toruń",
+                "en": "BETARD SPARTA Wrocław - FOR NATURE SOLUTIONS APATOR Toruń"
+            },
+            "shortname": {
+                "pl": "WRO - TOR",
+                "en": "WRO - TOR"
+            },
+            "description": {
+                "pl": null,
+                "en": null
+            },
+            "datetime_schedule": 1649610900000,
+            "datetime_has_hour": 1,
+            "round": 1,
+            "city": null,
+            "stub": 0,
+            "dynamic_stub": 0,
+            "url": null,
+            "status": {
+                "id": 1,
+                "name": {
+                    "pl": "Rozegrany",
+                    "en": "Raced"
+                },
+                "shortname": {
+                    "pl": "Rozegrany",
+                    "en": "Raced"
+                }
+            },
+            "broadcaster_schedule": {
+                "id": 27,
+                "title": "CANAL+ Sport 5 / CANAL+ online"
+            },
+            "card_teams": [
+                {
+                    "no": 1,
+                    "card_id": 2882,
+                    "team_id": 3,
+                    "match_score": 59,
+                    "match_tlt_score": null,
+                    "team_shortcut": "WRO"
+                },
+                {
+                    "no": 2,
+                    "card_id": 2882,
+                    "team_id": 1,
+                    "match_score": 31,
+                    "match_tlt_score": null,
+                    "team_shortcut": "TOR"
+                }
+            ],
+            "match_type": {
+                "id": 1,
+                "shortname": {
+                    "pl": "DMP",
+                    "en": "Extraleague"
+                },
+                "name": {
+                    "pl": "Drużynowe Mistrzostwa Polski",
+                    "en": "Polish Speedway Extraleague"
+                },
+                "has_home_away": 1,
+                "team_competition": 1
+            },
+            "match_subtype": {
+                "id": 1,
+                "name": {
+                    "pl": "Część zasadnicza",
+                    "en": "Main Round"
+                },
+                "shortname": {
+                    "pl": "Część zasadnicza",
+                    "en": "MR"
+                },
+                "description": {
+                    "pl": "",
+                    "en": ""
+                },
+                "has_knockout_table": 0
+            },
+            "postponed": null,
+            "postponed_first": null,
+            "track": {
+                "id": 25,
+                "city": "Wrocław"
+            }
+        },
+        {
+            "id": 2884,
+            "attendance": 0,
+            "count_attendance": 0,
+            "card_type_id": 1,
+            "broadcaster_schedule_id": 2,
+            "postponed_card_id": null,
+            "postponed_first_card_id": null,
+            "status_id": 0,
+            "season": 2022,
+            "verified": 0,
+            "match_type_id": 1,
+            "match_subtype_id": 1,
+            "track_id": 17,
+            "name": {
+                "pl": "FOR NATURE SOLUTIONS APATOR Toruń - ARGED MALESA Ostrów Wlkp.",
+                "en": "FOR NATURE SOLUTIONS APATOR Toruń - ARGED MALESA Ostrów Wlkp."
+            },
+            "shortname": {
+                "pl": "TOR - OST",
+                "en": "TOR - OST"
+            },
+            "description": {
+                "pl": null,
+                "en": null
+            },
+            "datetime_schedule": 1650124800000,
+            "datetime_has_hour": 1,
+            "round": 2,
+            "city": null,
+            "stub": 0,
+            "dynamic_stub": 0,
+            "url": null,
+            "status": {
+                "id": 0,
+                "name": {
+                    "pl": "Oczekujący",
+                    "en": "Upcoming"
+                },
+                "shortname": {
+                    "pl": "Oczekujący",
+                    "en": "Upcoming"
+                }
+            },
+            "broadcaster_schedule": {
+                "id": 2,
+                "title": "Eleven Sports 1"
+            },
+            "card_teams": [
+                {
+                    "no": 1,
+                    "card_id": 2884,
+                    "team_id": 1,
+                    "match_score": null,
+                    "match_tlt_score": null,
+                    "team_shortcut": "TOR"
+                },
+                {
+                    "no": 2,
+                    "card_id": 2884,
+                    "team_id": 15,
+                    "match_score": null,
+                    "match_tlt_score": null,
+                    "team_shortcut": "OST"
+                }
+            ],
+            "match_type": {
+                "id": 1,
+                "shortname": {
+                    "pl": "DMP",
+                    "en": "Extraleague"
+                },
+                "name": {
+                    "pl": "Drużynowe Mistrzostwa Polski",
+                    "en": "Polish Speedway Extraleague"
+                },
+                "has_home_away": 1,
+                "team_competition": 1
+            },
+            "match_subtype": {
+                "id": 1,
+                "name": {
+                    "pl": "Część zasadnicza",
+                    "en": "Main Round"
+                },
+                "shortname": {
+                    "pl": "Część zasadnicza",
+                    "en": "MR"
+                },
+                "description": {
+                    "pl": "",
+                    "en": ""
+                },
+                "has_knockout_table": 0
+            },
+            "postponed": null,
+            "postponed_first": null,
+            "track": {
+                "id": 17,
+                "city": "Toruń"
+            }
+        },
+        {
+            "id": 2883,
+            "attendance": 0,
+            "count_attendance": 0,
+            "card_type_id": 1,
+            "broadcaster_schedule_id": 2,
+            "postponed_card_id": null,
+            "postponed_first_card_id": null,
+            "status_id": 0,
+            "season": 2022,
+            "verified": 0,
+            "match_type_id": 1,
+            "match_subtype_id": 1,
+            "track_id": 20,
+            "name": {
+                "pl": "ZOOLESZCZ GKM Grudziądz - BETARD SPARTA Wrocław",
+                "en": "ZOOLESZCZ GKM Grudziądz - BETARD SPARTA Wrocław"
+            },
+            "shortname": {
+                "pl": "GRU - WRO",
+                "en": "GRU - WRO"
+            },
+            "description": {
+                "pl": null,
+                "en": null
+            },
+            "datetime_schedule": 1650133800000,
+            "datetime_has_hour": 1,
+            "round": 2,
+            "city": null,
+            "stub": 0,
+            "dynamic_stub": 0,
+            "url": null,
+            "status": {
+                "id": 0,
+                "name": {
+                    "pl": "Oczekujący",
+                    "en": "Upcoming"
+                },
+                "shortname": {
+                    "pl": "Oczekujący",
+                    "en": "Upcoming"
+                }
+            },
+            "broadcaster_schedule": {
+                "id": 2,
+                "title": "Eleven Sports 1"
+            },
+            "card_teams": [
+                {
+                    "no": 1,
+                    "card_id": 2883,
+                    "team_id": 2,
+                    "match_score": null,
+                    "match_tlt_score": null,
+                    "team_shortcut": "GRU"
+                },
+                {
+                    "no": 2,
+                    "card_id": 2883,
+                    "team_id": 3,
+                    "match_score": null,
+                    "match_tlt_score": null,
+                    "team_shortcut": "WRO"
+                }
+            ],
+            "match_type": {
+                "id": 1,
+                "shortname": {
+                    "pl": "DMP",
+                    "en": "Extraleague"
+                },
+                "name": {
+                    "pl": "Drużynowe Mistrzostwa Polski",
+                    "en": "Polish Speedway Extraleague"
+                },
+                "has_home_away": 1,
+                "team_competition": 1
+            },
+            "match_subtype": {
+                "id": 1,
+                "name": {
+                    "pl": "Część zasadnicza",
+                    "en": "Main Round"
+                },
+                "shortname": {
+                    "pl": "Część zasadnicza",
+                    "en": "MR"
+                },
+                "description": {
+                    "pl": "",
+                    "en": ""
+                },
+                "has_knockout_table": 0
+            },
+            "postponed": null,
+            "postponed_first": null,
+            "track": {
+                "id": 20,
+                "city": "Grudziądz"
+            }
+        },
+        {
+            "id": 2886,
+            "attendance": 0,
+            "count_attendance": 0,
+            "card_type_id": 1,
+            "broadcaster_schedule_id": 26,
+            "postponed_card_id": null,
+            "postponed_first_card_id": null,
+            "status_id": 0,
+            "season": 2022,
+            "verified": 0,
+            "match_type_id": 1,
+            "match_subtype_id": 1,
+            "track_id": 21,
+            "name": {
+                "pl": "FOGO UNIA Leszno - MOJE BERMUDY STAL Gorzów",
+                "en": "FOGO UNIA Leszno - MOJE BERMUDY STAL Gorzów"
+            },
+            "shortname": {
+                "pl": "LES - GOR",
+                "en": "LES - GOR"
+            },
+            "description": {
+                "pl": null,
+                "en": null
+            },
+            "datetime_schedule": 1650205800000,
+            "datetime_has_hour": 1,
+            "round": 2,
+            "city": null,
+            "stub": 0,
+            "dynamic_stub": 0,
+            "url": null,
+            "status": {
+                "id": 0,
+                "name": {
+                    "pl": "Oczekujący",
+                    "en": "Upcoming"
+                },
+                "shortname": {
+                    "pl": "Oczekujący",
+                    "en": "Upcoming"
+                }
+            },
+            "broadcaster_schedule": {
+                "id": 26,
+                "title": "CANAL+ Sport 5"
+            },
+            "card_teams": [
+                {
+                    "no": 1,
+                    "card_id": 2886,
+                    "team_id": 6,
+                    "match_score": null,
+                    "match_tlt_score": null,
+                    "team_shortcut": "LES"
+                },
+                {
+                    "no": 2,
+                    "card_id": 2886,
+                    "team_id": 8,
+                    "match_score": null,
+                    "match_tlt_score": null,
+                    "team_shortcut": "GOR"
+                }
+            ],
+            "match_type": {
+                "id": 1,
+                "shortname": {
+                    "pl": "DMP",
+                    "en": "Extraleague"
+                },
+                "name": {
+                    "pl": "Drużynowe Mistrzostwa Polski",
+                    "en": "Polish Speedway Extraleague"
+                },
+                "has_home_away": 1,
+                "team_competition": 1
+            },
+            "match_subtype": {
+                "id": 1,
+                "name": {
+                    "pl": "Część zasadnicza",
+                    "en": "Main Round"
+                },
+                "shortname": {
+                    "pl": "Część zasadnicza",
+                    "en": "MR"
+                },
+                "description": {
+                    "pl": "",
+                    "en": ""
+                },
+                "has_knockout_table": 0
+            },
+            "postponed": null,
+            "postponed_first": null,
+            "track": {
+                "id": 21,
+                "city": "Leszno"
+            }
+        },
+        {
+            "id": 2885,
+            "attendance": 0,
+            "count_attendance": 0,
+            "card_type_id": 1,
+            "broadcaster_schedule_id": 26,
+            "postponed_card_id": null,
+            "postponed_first_card_id": null,
+            "status_id": 0,
+            "season": 2022,
+            "verified": 0,
+            "match_type_id": 1,
+            "match_subtype_id": 1,
+            "track_id": 12,
+            "name": {
+                "pl": "MOTOR Lublin - ZIELONA-ENERGIA.COM WŁÓKNIARZ Częstochowa",
+                "en": "MOTOR Lublin - ZIELONA-ENERGIA.COM WŁÓKNIARZ Częstochowa"
+            },
+            "shortname": {
+                "pl": "LUB - CZE",
+                "en": "LUB - CZE"
+            },
+            "description": {
+                "pl": null,
+                "en": null
+            },
+            "datetime_schedule": 1650215700000,
+            "datetime_has_hour": 1,
+            "round": 2,
+            "city": null,
+            "stub": 0,
+            "dynamic_stub": 0,
+            "url": null,
+            "status": {
+                "id": 0,
+                "name": {
+                    "pl": "Oczekujący",
+                    "en": "Upcoming"
+                },
+                "shortname": {
+                    "pl": "Oczekujący",
+                    "en": "Upcoming"
+                }
+            },
+            "broadcaster_schedule": {
+                "id": 26,
+                "title": "CANAL+ Sport 5"
+            },
+            "card_teams": [
+                {
+                    "no": 1,
+                    "card_id": 2885,
+                    "team_id": 14,
+                    "match_score": null,
+                    "match_tlt_score": null,
+                    "team_shortcut": "LUB"
+                },
+                {
+                    "no": 2,
+                    "card_id": 2885,
+                    "team_id": 9,
+                    "match_score": null,
+                    "match_tlt_score": null,
+                    "team_shortcut": "CZE"
+                }
+            ],
+            "match_type": {
+                "id": 1,
+                "shortname": {
+                    "pl": "DMP",
+                    "en": "Extraleague"
+                },
+                "name": {
+                    "pl": "Drużynowe Mistrzostwa Polski",
+                    "en": "Polish Speedway Extraleague"
+                },
+                "has_home_away": 1,
+                "team_competition": 1
+            },
+            "match_subtype": {
+                "id": 1,
+                "name": {
+                    "pl": "Część zasadnicza",
+                    "en": "Main Round"
+                },
+                "shortname": {
+                    "pl": "Część zasadnicza",
+                    "en": "MR"
+                },
+                "description": {
+                    "pl": "",
+                    "en": ""
+                },
+                "has_knockout_table": 0
+            },
+            "postponed": null,
+            "postponed_first": null,
+            "track": {
+                "id": 12,
+                "city": "Lublin"
+            }
+        }
+    ]
+}
